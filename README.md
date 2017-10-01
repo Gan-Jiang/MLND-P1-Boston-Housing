@@ -1,6 +1,8 @@
 # Project 1: Model Evaluation & Validation
 ## Predicting Boston Housing Prices
 
+In this project, I use decision tree to predict the monetary value of homes in suburbs of Boston, Massachusetts. In the procedure, I also use learning curve to help choose the model. 
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
